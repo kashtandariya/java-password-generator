@@ -11,8 +11,10 @@ public class PasswordGenerator {
 			//chiedi all'utente le varie info
 			System.out.println("Inserisci il tuo nome:");
 			String nome = input.nextLine();
+			
 			System.out.println("Inserisci il tuo cognome:");
 			String cognome = input.nextLine();
+			
 			System.out.println("Inserisci il tuo colore preferito:");
 			String colore = input.nextLine();
 			
